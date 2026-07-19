@@ -7,14 +7,6 @@
 
 ---
 
-## Sobre mí
-
-- Ingeniero en Informática titulado del Instituto Profesional Duoc UC
-- Desarrollador de aplicaciones web y móviles, con experiencia en frontend y backend
-- Contacto: [lucas.mb6@gmail.com](mailto:lucas.mb6@gmail.com)
-
----
-
 ## Stack
 
 **Frontend**
