@@ -2,22 +2,20 @@
 
 <p align="center">
   <b>Ingeniero en Informática · Desarrollador Full Stack</b><br>
-  Chile 🇨🇱
+  Chile
 </p>
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## Sobre mí
 
-- 🎓 Ingeniero en Informática titulado del Instituto Profesional Duoc UC
-- 💻 Desarrollador de aplicaciones web y móviles, con experiencia en frontend y backend
-- 🔄 Me adapto con facilidad a distintas tecnologías y disfruto aprender continuamente
-- 🏓 Jugador federado de tenis de mesa: decisiones rápidas, manejo del estrés y constancia
-- 📫 Contacto: [lucas.mb6@gmail.com](mailto:lucas.mb6@gmail.com)
+- Ingeniero en Informática titulado del Instituto Profesional Duoc UC
+- Desarrollador de aplicaciones web y móviles, con experiencia en frontend y backend
+- Contacto: [lucas.mb6@gmail.com](mailto:lucas.mb6@gmail.com)
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Frontend**
 
@@ -54,25 +52,7 @@
 
 ---
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías | Links |
-| --- | --- | --- | --- |
-| **MYHD.CL** | Tienda web de productos de DJ y música, con backend para consumo de microservicios | Node.js, Express, JS | [Web](https://myhd.cl/) |
-| **SpinZone** | App móvil de gestión de ganado con código QR, ventas y suscripción vía WebPay | React Native, Expo, Supabase | [Demo](https://sz-frontend.vercel.app/) · [Código](https://github.com/lucassmelendez/szfrontend) |
-| **CowTracker** | App móvil de gestión de granja y ganado mediante código QR | React Native, Expo, Supabase | [Código](https://github.com/lucassmelendez/cowtracker) |
-| **RegistrApp** | App de registro de asistencia con escaneo QR y geolocalización | Ionic, Angular, Django, Firebase | [Demo](https://registrapp-blue.vercel.app/) · [Código](https://github.com/lucassmelendez/registrAppDjango) |
-
----
-
-## 💼 Experiencia
-
-- **Lemm.cl** — Desarrollador Full Stack *(2025 – presente)*: ecommerce con Next.js y Strapi
-- **Myhd.cl** — Trainee Desarrollador *(2025)*: módulos web con HTML, CSS, JS y backend Node.js/Express
-
----
-
-## 🤝 Conectemos
+## Conectemos
 
 <p>
   <a href="https://www.linkedin.com/in/lucasmelendez/"><img src="https://img.shields.io/badge/LinkedIn-lucasmelendez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
