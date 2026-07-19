@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Ingeniero en Informática · Desarrollador Full Stack</b><br>
-  Chile
 </p>
 
 ---
